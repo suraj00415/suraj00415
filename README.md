@@ -4,7 +4,7 @@
 
 ### Offensive Security · Full-Stack Developer · Security Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Offensive+Security+Intern+%40+Trading+Technologies;TryHackMe+Top+3%25+%7C+155%2B+Labs;PortSwigger+140%2B+Labs+Solved;Building+Security+Tools+%26+Full-Stack+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Offensive+Security+Intern+%40+TT;TryHackMe+Top+3%25+%7C+155%2B+Labs;PortSwigger+140%2B+Labs+Solved;Building+Security+Tools+%26+Full-Stack+Apps)](https://git.io/typing-svg)
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/suraj00415)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger-140%2B%20Labs-orange?style=for-the-badge)](https://portswigger.net/web-security)
